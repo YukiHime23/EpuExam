@@ -1,0 +1,117 @@
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\Controller.dll.config
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\Controller.dll
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\Controller.pdb
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\csc.exe
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\csc.exe.config
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\csc.rsp
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\csi.exe
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\csi.exe.config
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\csi.rsp
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\System.AppContext.dll
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\System.Console.dll
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\System.IO.Compression.dll
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\System.Security.Claims.dll
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\System.ValueTuple.dll
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\vbc.exe
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\vbc.exe.config
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\vbc.rsp
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\Data.dll
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\Data.pdb
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\Data.dll.config
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\obj\Debug\Controller.csproj.CopyComplete
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\obj\Debug\Controller.dll
+C:\Users\Yuki Neko\source\repos\EpuExam\Controller\obj\Debug\Controller.pdb
+D:\EpuExam\Controller\bin\Controller.dll.config
+D:\EpuExam\Controller\bin\Controller.dll
+D:\EpuExam\Controller\bin\Controller.pdb
+D:\EpuExam\Controller\bin\roslyn\csc.exe
+D:\EpuExam\Controller\bin\roslyn\csc.exe.config
+D:\EpuExam\Controller\bin\roslyn\csc.rsp
+D:\EpuExam\Controller\bin\roslyn\csi.exe
+D:\EpuExam\Controller\bin\roslyn\csi.exe.config
+D:\EpuExam\Controller\bin\roslyn\csi.rsp
+D:\EpuExam\Controller\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\EpuExam\Controller\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\EpuExam\Controller\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\EpuExam\Controller\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\EpuExam\Controller\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\EpuExam\Controller\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\EpuExam\Controller\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\EpuExam\Controller\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\EpuExam\Controller\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\EpuExam\Controller\bin\roslyn\Microsoft.Managed.Core.targets
+D:\EpuExam\Controller\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\EpuExam\Controller\bin\roslyn\System.AppContext.dll
+D:\EpuExam\Controller\bin\roslyn\System.Collections.Immutable.dll
+D:\EpuExam\Controller\bin\roslyn\System.Console.dll
+D:\EpuExam\Controller\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\EpuExam\Controller\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\EpuExam\Controller\bin\roslyn\System.IO.Compression.dll
+D:\EpuExam\Controller\bin\roslyn\System.IO.FileSystem.dll
+D:\EpuExam\Controller\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\EpuExam\Controller\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\EpuExam\Controller\bin\roslyn\System.IO.Pipes.dll
+D:\EpuExam\Controller\bin\roslyn\System.Reflection.Metadata.dll
+D:\EpuExam\Controller\bin\roslyn\System.Security.AccessControl.dll
+D:\EpuExam\Controller\bin\roslyn\System.Security.Claims.dll
+D:\EpuExam\Controller\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\EpuExam\Controller\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\EpuExam\Controller\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\EpuExam\Controller\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\EpuExam\Controller\bin\roslyn\System.Security.Principal.Windows.dll
+D:\EpuExam\Controller\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\EpuExam\Controller\bin\roslyn\System.ValueTuple.dll
+D:\EpuExam\Controller\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\EpuExam\Controller\bin\roslyn\System.Xml.XmlDocument.dll
+D:\EpuExam\Controller\bin\roslyn\System.Xml.XPath.dll
+D:\EpuExam\Controller\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\EpuExam\Controller\bin\roslyn\vbc.exe
+D:\EpuExam\Controller\bin\roslyn\vbc.exe.config
+D:\EpuExam\Controller\bin\roslyn\vbc.rsp
+D:\EpuExam\Controller\bin\roslyn\VBCSCompiler.exe
+D:\EpuExam\Controller\bin\roslyn\VBCSCompiler.exe.config
+D:\EpuExam\Controller\bin\Data.dll
+D:\EpuExam\Controller\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\EpuExam\Controller\bin\Data.pdb
+D:\EpuExam\Controller\bin\Data.dll.config
+D:\EpuExam\Controller\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\EpuExam\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+D:\EpuExam\Controller\obj\Debug\Controller.csproj.CopyComplete
+D:\EpuExam\Controller\obj\Debug\Controller.dll
+D:\EpuExam\Controller\obj\Debug\Controller.pdb
